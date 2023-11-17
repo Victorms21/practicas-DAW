@@ -15,7 +15,7 @@ public class Ejercicio3 {
 				System.out.println(i + " es múltiplo de 2");
 				countMultiplos2++;
 				
-				//Comprueba si es últiplo de 3
+				//Comprueba si es múltiplo de 3
 				if (i%3 ==0 ) {
 					System.out.println(i+"es múltiplo de 3");
 					countMultiplos3++;
